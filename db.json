@@ -1,0 +1,40 @@
+{
+  "motorcycles": [
+    {
+      "after_car_accident": "Tak",
+      "brand": "BMW",
+      "production_year": "2024",
+      "id": 1
+    },
+    {
+      "after_car_accident": "Nie",
+      "brand": "Kawasaki",
+      "production_year": "2010",
+      "id": 2
+    },
+    {
+      "after_car_accident": "Nie",
+      "brand": "Honda",
+      "production_year": "2005",
+      "id": 4
+    },
+    {
+      "after_car_accident": "Tak",
+      "brand": "Junak",
+      "production_year": "2021",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "brand": "Ninja",
+      "production_year": "2012",
+      "after_car_accident": "Nie"
+    },
+    {
+      "after_car_accident": "Tak",
+      "brand": "Yamaha",
+      "production_year": "2001",
+      "id": 8
+    }
+  ]
+}
