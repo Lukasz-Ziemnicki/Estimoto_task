@@ -1,7 +1,7 @@
 {
   "motorcycles": [
     {
-      "after_car_accident": "Tak",
+      "after_car_accident": "Nie",
       "brand": "BMW",
       "production_year": "2024",
       "id": 1
